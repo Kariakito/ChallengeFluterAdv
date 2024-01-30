@@ -54,7 +54,7 @@ class ButtonTypesGroup extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: <Widget>[
-          OutlinedButton(onPressed: onPressed, child: const Text('Outlined')),
+          OutlinedButton(onPressed: onPressed, child: const Text('Start Quiz!')),
         ],
       ),
     );
