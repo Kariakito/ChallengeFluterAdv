@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-/// Flutter code sample for [ElevatedButton].
-
 void main() {
   runApp(const ButtonApp());
 }
